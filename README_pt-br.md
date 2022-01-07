@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Felipe Alves, welcome to my Github!</h2>
+<h2 align="center">Hi 👋, Eu sou o Felipe, Bem-vindo ao meu Github!</h2>
 <table align="center">
  <tr>
    <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
