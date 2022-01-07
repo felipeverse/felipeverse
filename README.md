@@ -62,3 +62,10 @@
   <img alt="composer" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 </div>
 
+## Stats
+<div>
+  <a href="https://github.com/felipeverse/">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=felipeverse&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeverse&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+  </a>
+</div>
