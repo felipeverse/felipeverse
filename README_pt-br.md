@@ -35,6 +35,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=70995453)
 
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeverse&layout=compact&theme=apprentice" alt="felipeverse" />
+</div>
+
 ##  Estou trabalhando com:
 <div>
   <img alt="html5" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
