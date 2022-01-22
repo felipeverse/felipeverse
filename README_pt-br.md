@@ -65,3 +65,9 @@
   <img alt="PowerBI" width=50 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/36c43afaca7c93119c76229d434688610003ad66/SVG/PowerBI.svg" />
   <img alt="C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
+
+## Performance Diária
+#### Este gráfico é um lembrete para que eu mantenha hábitos produtivos e saudáveis.
+<div align="center">
+ <kbd> <img align="top" style="border-radius: 10px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpyavp2HzGUTBr-wTmw07nEZj5ePgjK4dnEWJOtIyP78S80unk-eMscAiwVlIoCncmJ-YOBe6x8IbO/pubchart?oid=1822562275&format=image" alt="Daily Performance" /> </kbd>
+</div> 
