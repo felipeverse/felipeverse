@@ -6,7 +6,7 @@
  </tr>
 </table>
 
-<p align="center"> I am a Web Developer, with knowledge in technologies such as PHP, Laravel, MySQL, HTML, CSS and JavaScript. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a software engineer. </p>
+<p align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL, HTML, CSS and JavaScript. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a software engineer. </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
