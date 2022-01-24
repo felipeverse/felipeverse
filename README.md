@@ -50,7 +50,9 @@
 
 ## I am studying:
 <div>
-  <img alt="html5" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ <a href="https://www.php.net/" alt="PHP is a popular general-purpose scripting language that is especially suited to web development." target="_blank">
+   <img alt="html5" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ </a>
   <img alt="css3" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="javascript" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="nodejs" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
