@@ -6,14 +6,14 @@
  </tr>
 </table>
 
-<p align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL, HTML, CSS and JavaScript. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a software engineer. </p>
+<p align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL and Docker. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a Software Engineer. </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
     <img align="center"
       src="images/social/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
     />
-  </a>
+  </a>software
   <a href="mailto:felipealvesrrodrigues@outlook.com" target="blank">
     <img align="center"align="center"
      src="images/social/icon_mail.png" alt="felipealvesrrodrigues" height="35" width="35" 
