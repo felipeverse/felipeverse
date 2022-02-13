@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Felipe Alves, welcome to my Github!</h2>
 <table align="center">
  <tr>
-   <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
-   <td><a href="README_pt-br.md"><img src="images/br-flag.png" height="13"> Português</a></td>
+   <td><a href="README.md"><img src="images/flags/flag-usa.png" height="13"> English</a></td>
+   <td><a href="README_pt-br.md"><img src="images/flags/flag-br.png" height="13"> Português</a></td>
  </tr>
 </table>
 
@@ -11,22 +11,22 @@
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
     <img align="center"
-      src="images/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
+      src="images/social/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
     />
   </a>
   <a href="mailto:felipealvesrrodrigues@outlook.com" target="blank">
     <img align="center"align="center"
-     src="images/icon_mail.png" alt="felipealvesrrodrigues" height="35" width="35" 
+     src="images/social/icon_mail.png" alt="felipealvesrrodrigues" height="35" width="35" 
     />
   </a>
   <a href="https://twitter.com/felipeverse" target="blank">
     <img align="center"
-      src="images/icon_twitter.svg" alt="felipeverse" height="35" width="35"
+      src="images/social/icon_twitter.svg" alt="felipeverse" height="35" width="35"
     />
   </a>
   <a href="https://instagram.com/felipeverse" target="blank">
     <img align="center"
-      src="images/icon_instagram.png" alt="felipeverse" height="35" width="35"
+      src="images/social/icon_instagram.png" alt="felipeverse" height="35" width="35"
     />
   </a>
 </p>
@@ -41,29 +41,36 @@
 
 ##  I Am working with:
 <div>
-  <img alt="php" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img alt="composer" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-  <img alt="laravel" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img alt="docker" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img alt="mysql" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+  <img alt="PHP" width=50 src="images/techs/php.svg" />
+  <img alt="Laravel" width=50 src="images/techs/laravel.svg" />
+  <img alt="MySQL" width=50 src="images/techs/mysql.svg"/>
+  <img alt="Docker" width=50 src="images/techs/docker.svg"/>
 </div>
 
 ## I am studying:
 <div>
-  <img alt="html5" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img alt="css3" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img alt="javascript" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="nodejs" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img alt="cakephp" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-plain.svg" />  
+  <img alt="HTML5" width=50 src="images/techs/html5.svg" />
+  <img alt="CSS3" width=50 src="images/techs/css3.svg" />
+  <img alt="Javascrip" width=50 src="images/techs/javascript.svg" /> 
 </div>
 
 ## I have some experience with:
 <div>
-  <img alt="linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-  <img alt="bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-  <img alt="git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img alt="PowerBI" width=50 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/36c43afaca7c93119c76229d434688610003ad66/SVG/PowerBI.svg" />
+  <img alt="Linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+  <img alt="Bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img alt="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img alt="Power BI" width=50 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/36c43afaca7c93119c76229d434688610003ad66/SVG/PowerBI.svg" />
   <img alt="C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
+
+## I'm interested in learning
+<div>
+  <img alt="Node.JS" width=50 src="images/techs/node.svg">
+  <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
+  <img alt="VueJS" width=50 src="images/techs/vuejs.svg">
+  <img alt="Angular JS" width=50 src="images/techs/angularjs.svg">
+  <img alt="ReactJS" width=50 src="images/techs/reactjs.svg">
+  <img alt="React Native" width=50 src="images/techs/react-native.svg">
 </div>
 
 ## Daily Performance
