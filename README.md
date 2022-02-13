@@ -13,7 +13,7 @@
     <img align="center"
       src="images/social/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
     />
-  </a>software
+  </a>
   <a href="mailto:felipealvesrrodrigues@outlook.com" target="blank">
     <img align="center"align="center"
      src="images/social/icon_mail.png" alt="felipealvesrrodrigues" height="35" width="35" 
