@@ -6,12 +6,12 @@
  </tr>
 </table>
 
-<p align="center"> Desenvolvedor Back-end, com conhecimento em tecnologias como PHP, Laravel, MySQL, HTML, CSS e JavaScript. Graduando em Sistemas de Informação pela UFMT, estudante auto-didata de Inglês com o plano de me tornar Engenheiro de Software. </p>
+<p align="center"> Desenvolvedor Back-end, com conhecimento em tecnologias como PHP, Laravel, MySQL e Docker. Graduando em Sistemas de Informação pela UFMT, estudante auto-didata de Inglês com o plano de me tornar Engenheiro de Software. </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
     <img align="center"
-      src="images/social/icon_linkedin" alt="felipealvesrrodrigues" height="35" width="35" 
+      src="images/social/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
     />
   </a>
   <a href="mailto:felipealvesrrodrigues@outlook.com" target="blank">
