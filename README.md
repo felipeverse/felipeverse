@@ -57,7 +57,7 @@
 ## I have some experience with:
 <div>
   <img alt="Linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-  <img alt="Bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img alt="Bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img alt="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img alt="Power BI" width=50 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/36c43afaca7c93119c76229d434688610003ad66/SVG/PowerBI.svg" />
   <img alt="C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
