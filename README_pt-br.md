@@ -74,9 +74,3 @@
   <img alt="ReactJS" width=50 src="images/techs/reactjs.svg">
   <img alt="React Native" width=50 src="images/techs/react-native.svg">
 </div>
-
-## Performance Diária
-#### Este gráfico é um lembrete para que eu mantenha hábitos produtivos e saudáveis.
-<div align="center">
- <kbd> <img align="top" style="border-radius: 10px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpyavp2HzGUTBr-wTmw07nEZj5ePgjK4dnEWJOtIyP78S80unk-eMscAiwVlIoCncmJ-YOBe6x8IbO/pubchart?oid=1822562275&format=image" alt="Daily Performance" /> </kbd>
-</div> 
