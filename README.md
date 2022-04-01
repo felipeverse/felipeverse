@@ -52,8 +52,6 @@
   <img alt="HTML5" width=50 src="images/techs/html5.svg" />
   <img alt="CSS3" width=50 src="images/techs/css3.svg" />
   <img alt="Javascrip" width=50 src="images/techs/javascript.svg" />
-  <img alt="C-sharp" width=50 src="images/techs/c-sharp.svg" />
-  <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
 </div>
 
 ## I have some experience with:
@@ -67,6 +65,8 @@
 
 ## I'm interested in learning
 <div>
+  <img alt="C-sharp" width=50 src="images/techs/c-sharp.svg" />
+  <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
   <img alt="Node.JS" width=50 src="images/techs/node.svg">
   <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
   <img alt="VueJS" width=50 src="images/techs/vuejs.svg">
