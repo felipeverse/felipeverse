@@ -1,6 +1,6 @@
 <h2 align="center">Oi 👋, Eu sou o Felipe, Bem-vindo ao meu Github!</h2>
 <div align="center">
- <img src="https://i.pinimg.com/originals/b1/3d/7d/b13d7d58d2e7424effd9f42cc7eba410.gif" alt="spiderverse">
+ <img src="images/cover/miles-morales.gif" alt="spiderverse">
 </div>
 <table align="center">
  <tr>
