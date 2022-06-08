@@ -1,15 +1,15 @@
-<h2 align="center">Hi 👋, I'm Felipe Alves, welcome to my Github!</h2>
-<div align="center">
- <img src="images/cover/miles-morales.gif" alt="spiderverse">
-</div>
 <table align="center">
  <tr>
    <td><a href="README.md"><img src="images/flags/flag-usa.png" height="13"> English</a></td>
    <td><a href="README_pt-br.md"><img src="images/flags/flag-br.png" height="13"> Português</a></td>
  </tr>
 </table>
+<h2 align="center">"With great power comes great responsibility"</h2>
+<div align="center">
+ <img src="images/cover/miles-morales.gif" alt="spiderverse">
+</div>
 
-<p align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL and Docker. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a Software Engineer. </p>
+<h3 align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL and Docker. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a Software Engineer. </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
