@@ -72,8 +72,4 @@
   <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
   <img alt="Node.JS" width=50 src="images/techs/node.svg">
   <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
-  <img alt="VueJS" width=50 src="images/techs/vuejs.svg">
-  <img alt="Angular JS" width=50 src="images/techs/angularjs.svg">
-  <img alt="ReactJS" width=50 src="images/techs/reactjs.svg">
-  <img alt="React Native" width=50 src="images/techs/react-native.svg">
 </div>
