@@ -9,7 +9,7 @@
  <img src="images/cover/miles-morales.gif" alt="spiderverse">
 </div>
 
-<h3 align="center"> I am a Back-end Developer, with knowledge in technologies such as PHP, Laravel, MySQL and Docker. Majoring in Information Systems at UFMT, Self-taught English student with plan to become a Software Engineer. </h3>
+<h3 align="center"> Backend Developer from Brazil with over 3 years of experience and a degree in Information Systems. Self-taught English learner and passionate about Software Architecture, always striving to organize the chaos of the real world into lines of code. </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
@@ -42,7 +42,8 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeverse&layout=compact&theme=apprentice" alt="felipeverse" />
 </div>
 
-##  I Am working with:
+## I Am working with:
+
 <div>
   <img alt="PHP" width=50 src="images/techs/php.svg" />
   <img alt="Laravel" width=50 src="images/techs/laravel.svg" />
@@ -51,6 +52,7 @@
 </div>
 
 ## I am studying:
+
 <div>
   <img alt="HTML5" width=50 src="images/techs/html5.svg" />
   <img alt="CSS3" width=50 src="images/techs/css3.svg" />
@@ -58,6 +60,7 @@
 </div>
 
 ## I have some experience with:
+
 <div>
   <img alt="Linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img alt="Bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -67,6 +70,7 @@
 </div>
 
 ## I'm interested in learning
+
 <div>
   <img alt="C-sharp" width=50 src="images/techs/c-sharp.svg" />
   <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
