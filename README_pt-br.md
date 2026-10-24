@@ -47,8 +47,9 @@
 <div>
   <img alt="PHP" width=50 src="images/techs/php.svg" />
   <img alt="Laravel" width=50 src="images/techs/laravel.svg" />
-  <img alt="Node.JS" width=50 src="images/techs/node.svg">
   <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
+  <img alt="Javascrip" width=50 src="images/techs/javascript.svg" />
+  <img alt="Node.JS" width=50 src="images/techs/node.svg">
   <img alt="MySQL" width=50 src="images/techs/mysql.svg"/>
   <img alt="Docker" width=50 src="images/techs/docker.svg"/>
 </div>
