@@ -62,17 +62,17 @@
 <div>
   <img alt="PHP" width=50 src="images/techs/php.svg" />
   <img alt="Laravel" width=50 src="images/techs/laravel.svg" />
+  <img alt="Javascrip" width=50 src="images/techs/javascript.svg" />
+  <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
+  <img alt="Node.JS" width=50 src="images/techs/node.svg">
   <img alt="MySQL" width=50 src="images/techs/mysql.svg"/>
   <img alt="Docker" width=50 src="images/techs/docker.svg"/>
 </div>
 
 ## I am studying:
 
-<div>
-  <img alt="HTML5" width=50 src="images/techs/html5.svg" />
-  <img alt="CSS3" width=50 src="images/techs/css3.svg" />
-  <img alt="Javascrip" width=50 src="images/techs/javascript.svg" />
-</div>
+- System Design
+- AWS ecosystem
 
 ## I have some experience with:
 
@@ -89,6 +89,4 @@
 <div>
   <img alt="C-sharp" width=50 src="images/techs/c-sharp.svg" />
   <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
-  <img alt="Node.JS" width=50 src="images/techs/node.svg">
-  <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
 </div>
