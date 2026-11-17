@@ -4,89 +4,59 @@
    <td><a href="README_pt-br.md"><img src="images/flags/flag-br.png" height="13"> Português</a></td>
  </tr>
 </table>
-<h2 align="center">"With great power comes great responsibility"</h2>
-<div align="center">
- <img src="images/cover/miles-morales.gif" alt="spiderverse">
-</div>
 
-<h3 align="center"> Backend Developer from Brazil with over 3 years of experience and a degree in Information Systems. Self-taught English learner and passionate about Software Architecture, always striving to organize the chaos of the real world into lines of code. </h3>
+<p align="center"><em>"With great power comes great responsibility."</em></p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/felipeverse/felipeverse/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/felipeverse/felipeverse/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/felipeverse/felipeverse/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<h1 align="center">Felipe Alves</h1>
+
+<h3 align="center">Backend Software Engineer · PHP (Laravel) & Node.js · SQL/NoSQL · Cloud & Containers (AWS, Docker)</h3>
+
+<h4 align="center">Software engineer from Brazil with over 5 years of experience and a degree in Information Systems. I build RESTful APIs and backend services with PHP, Laravel, and Node.js, with a focus on software architecture, performance, and maintainability, always striving to organize the chaos of the real world into lines of code.</h4>
+
+## Toolbox
+
+- **Backend & APIs:** PHP, Laravel, Node.js, JavaScript, TypeScript
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps:** Docker, AWS, Linux, Bash, Git
+- **Also:** Power BI and Metabase for data analysis
+
+## Experience in short
+
+- **Backend Software Engineer at VExpenses** (since 2022, promoted in 2025). Building and evolving RESTful APIs in Laravel and Node.js, with backend work that reduced system response times and helped migrate a Blade monolith to decoupled REST APIs. I also mentor new team members and wrote internal documentation adopted across teams.
+- **Junior Backend Developer at SOGG** (2021 to 2022). Maintained and evolved a logistics web system with PHP and MySQL.
+
+The full timeline lives on [LinkedIn](https://www.linkedin.com/in/felipealvesrrodrigues).
+
+## Languages & certification
+
+- **English:** C1 Advanced, EF SET English Certificate (68/100)
+- **Portuguese:** native
+
+## Learning
+
+- System design
+- AWS ecosystem
+
+## Get in touch
+
+If it is about backend, software architecture, or an opportunity, feel free to reach out at [felipealvesrrodrigues@outlook.com](mailto:felipealvesrrodrigues@outlook.com) or through the links below.
 
 <p align="center">
-  <a href="https://linkedin.com/in/felipealvesrrodrigues" target="blank">
-    <img align="center"
-      src="images/social/icon_linkedin.png" alt="felipealvesrrodrigues" height="35" width="35" 
-    />
+  <a href="https://linkedin.com/in/felipeverse" target="blank">
+    <img align="center" src="images/social/icon_linkedin.svg" alt="felipealvesrrodrigues" height="35" width="35" />
   </a>
   <a href="mailto:felipealvesrrodrigues@outlook.com" target="blank">
-    <img align="center"align="center"
-     src="images/social/icon_mail.png" alt="felipealvesrrodrigues" height="35" width="35" 
-    />
+    <img align="center" src="images/social/icon_mail.svg" alt="felipealvesrrodrigues" height="35" width="35" />
   </a>
-  <a href="https://twitter.com/felipeverse" target="blank">
-    <img align="center"
-      src="images/social/icon_twitter.svg" alt="felipeverse" height="35" width="35"
-    />
-  </a>
-  <a href="https://instagram.com/felipeverse" target="blank">
-    <img align="center"
-      src="images/social/icon_instagram.png" alt="felipeverse" height="35" width="35"
-    />
+  <a href="https://x.com/felipeverse" target="blank">
+    <img align="center" src="images/social/icon_x.svg" alt="felipeverse" height="35" width="35" />
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=felipeverse&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
-
-![](https://hit.yhype.me/github/profile?user_id=70995453)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipeverse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeverse&layout=compact&theme=apprentice" alt="felipeverse" />
-</div>
-
-## I Am working with:
-
-<div>
-  <img alt="PHP" width=50 src="images/techs/php.svg" />
-  <img alt="Laravel" width=50 src="images/techs/laravel.svg" />
-  <img alt="Javascrip" width=50 src="images/techs/javascript.svg" />
-  <img alt="TypeScript" width=50 src="images/techs/typescript.svg">
-  <img alt="Node.JS" width=50 src="images/techs/node.svg">
-  <img alt="MySQL" width=50 src="images/techs/mysql.svg"/>
-  <img alt="Docker" width=50 src="images/techs/docker.svg"/>
-</div>
-
-## I am studying:
-
-- System Design
-- AWS ecosystem
-
-## I have some experience with:
-
-<div>
-  <img alt="Linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-  <img alt="Bash" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img alt="Power BI" width=50 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/36c43afaca7c93119c76229d434688610003ad66/SVG/PowerBI.svg" />
-  <img alt="C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
-
-## I'm interested in learning
-
-<div>
-  <img alt="C-sharp" width=50 src="images/techs/c-sharp.svg" />
-  <img alt="dot.net" width=50 src="images/techs/dot-net.svg" />
+  <img src="https://ghchart.rshah.org/felipeverse" alt="Felipe's GitHub contributions" />
 </div>
